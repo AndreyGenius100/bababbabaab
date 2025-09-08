@@ -1,0 +1,14 @@
+﻿  Error.cpp
+  In.cpp
+C:\Users\latsg\OneDrive\Рабочий стол\шлак\KPO\SE_Lab14\In.cpp(26,27): error C2186: 'throw': an operand cannot have type 'void'
+C:\Users\latsg\OneDrive\Рабочий стол\шлак\KPO\SE_Lab14\In.cpp(37,17): error C2186: 'throw': an operand cannot have type 'void'
+  Log.cpp
+C:\Users\latsg\OneDrive\Рабочий стол\шлак\KPO\SE_Lab14\Log.cpp(21,36): error C2186: 'throw': an operand cannot have type 'void'
+  main.cpp
+  Parm.cpp
+C:\Users\latsg\OneDrive\Рабочий стол\шлак\KPO\SE_Lab14\Parm.cpp(16,21): error C2186: 'throw': an operand cannot have type 'void'
+C:\Users\latsg\OneDrive\Рабочий стол\шлак\KPO\SE_Lab14\Parm.cpp(22,21): error C2186: 'throw': an operand cannot have type 'void'
+C:\Users\latsg\OneDrive\Рабочий стол\шлак\KPO\SE_Lab14\Parm.cpp(28,21): error C2186: 'throw': an operand cannot have type 'void'
+C:\Users\latsg\OneDrive\Рабочий стол\шлак\KPO\SE_Lab14\Parm.cpp(35,13): error C2186: 'throw': an operand cannot have type 'void'
+  stdafx.cpp
+  Создание кода...
